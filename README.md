@@ -13,9 +13,10 @@
 
 ## 📝 Latest Dev.to Posts
 
-[![Building Your First Interactive Drill-Down Chart with React and Chart.js](https://github-readme-medium-recent-article.vercel.app/medium/@abdelraman_ahmed_e83db59f/0)](https://dev.to/abdelraman_ahmed_e83db59f/building-your-first-interactive-drill-down-chart-with-react-and-chartjs-26bp)
+[![Building Your First Interactive Drill-Down Chart with React and Chart.js](https://res.cloudinary.com/practicaldev/image/fetch/s--r3m1qvdd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev.to/social_previews/article/1896879.png)](https://dev.to/abdelraman_ahmed_e83db59f/building-your-first-interactive-drill-down-chart-with-react-and-chartjs-26bp)
 
-[![Building a Rich Text Editor with Tiptap in React (with Mentions)](https://github-readme-medium-recent-article.vercel.app/medium/@abdelraman_ahmed_e83db59f/1)](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-3l22)
+[![Building a Rich Text Editor with Tiptap in React (with Mentions)](https://res.cloudinary.com/practicaldev/image/fetch/s--AbhyD5eQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev.to/social_previews/article/1897034.png)](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-3l22)
+
 
 
 
