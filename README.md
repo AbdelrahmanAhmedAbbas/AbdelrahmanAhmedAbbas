@@ -9,17 +9,13 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdoAhmedAbbas)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/abdelraman_ahmed_e83db59f)
 
+
+
 ## 📝 Latest Dev.to Posts
 
-#### 🧩 [Building Your First Interactive Drill-Down Chart with React and Chart.js](https://dev.to/abdelraman_ahmed_e83db59f/building-your-first-interactive-drill-down-chart-with-react-and-chartjs-26bp)
-Learn how to create dynamic drill-down charts in React using Chart.js — perfect for dashboards and data visualization in SaaS apps.  
-[![Read on Dev.to](https://github-readme-medium-recent-article.vercel.app/medium/@abdelraman_ahmed_e83db59f/0)](https://dev.to/abdelraman_ahmed_e83db59f/building-your-first-interactive-drill-down-chart-with-react-and-chartjs-26bp)
+[![Building Your First Interactive Drill-Down Chart with React and Chart.js](https://github-readme-medium-recent-article.vercel.app/medium/@abdelraman_ahmed_e83db59f/0)](https://dev.to/abdelraman_ahmed_e83db59f/building-your-first-interactive-drill-down-chart-with-react-and-chartjs-26bp)
 
----
-
-#### 📝 [Building a Rich Text Editor with Tiptap in React (with Mentions)](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-3l22)
-A step-by-step guide to building a Tiptap-powered editor with mention functionality for modern React apps.  
-[![Read on Dev.to](https://github-readme-medium-recent-article.vercel.app/medium/@abdelraman_ahmed_e83db59f/1)](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-3l22)
+[![Building a Rich Text Editor with Tiptap in React (with Mentions)](https://github-readme-medium-recent-article.vercel.app/medium/@abdelraman_ahmed_e83db59f/1)](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-3l22)
 
 
 
