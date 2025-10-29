@@ -1,0 +1,6 @@
+- name: Update README with Dev.to posts and previews
+  uses: arunvelsriram/blog-post-workflow@v1
+  with:
+    feed_list: "https://dev.to/feed/abdelraman_ahmed_e83db59f"
+    max_post_count: 3
+    template: "- [{{ title }}]({{ link }})"
